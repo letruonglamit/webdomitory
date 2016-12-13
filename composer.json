@@ -1,0 +1,6 @@
+{
+    "name": "webdomitory/2016",
+    "require": {
+        "phpmailer/phpmailer": "^5.2"
+    }
+}
